@@ -622,7 +622,7 @@ Für die Installtion unter Linux sind folgende Schritte notwendig:
 
 1. Installation einer aktuellen Wine Version unter Linux
 2. Installation von PlayOnLinux
-3. INstalation der aktuellen XCP-ng Center App via PlayOnLinux Plugin
+3. Instalation der aktuellen XCP-ng Center App via PlayOnLinux Plugin
 4. Verbindung zum XCP-ng Server via Port 80
 
 
@@ -911,7 +911,7 @@ Um sich erstmalig mit der XOA-VM via SSH zu verbinden, gibst Du in einem Termina
 
 Bestätige den fingerprint mit ``yes``und gebe das Kennwort ``Muster!`` ein.
 
-Gebe auf der Konsole ``passwd`` ein und ändere der Kennwort für den Benutzer ``muster``.
+Gib auf der Konsole ``passwd`` ein und ändere der Kennwort für den Benutzer ``muster``.
 
 Wechsle auf der Konsole zum root-Benutzer, indem Du als Benutzer ``muster`` den Befehl ``sudo su`` angibst.
 Du wirst nach dem Kennwort des Muster-Nutzers gefragt. Gebe das vorher geänderte Kennwort an. Du kannst nun als Benutzer ``root`` arbeiten.
